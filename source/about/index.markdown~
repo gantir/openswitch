@@ -1,0 +1,40 @@
+---
+layout: page
+title: "About"
+date: 2012-05-26 20:19
+comments: false
+sharing: false
+footer: false
+---
+Hi, my name is Ben Gray though throughout most of the interwebs I go by my alias: frotzed.  This blog has been a lot of things over the years.  It started out as a religious blog, morphed into a personal blog and now is a *mostly* technical blog.  I'm addicted to learning and pushing myself to master new technologies.
+
+Currently living in the metro area of Atlanta, Georgia I fill my free time by hanging out with my wife and two boys, writing on Openswitch and finding new and interesting ways I can break computers.
+
+## Tech I use
+
+It's important to note that I get no perks from mentioning or linking to any service or product below.
+
+### Services & Software
+
+* <a href="http://nearlyfreespeech.net">Nearly Free Speech</a> for hosting
+* Google Voice
+* <a href="http://octopress.org">Octopress</a> for this blog
+* Google Chrome as primary and dev browser
+* Boomerang for Gmail
+* Google Dictionary
+* Google Reader
+* <a href="http://keepass.info/">KeePass</a>
+* TextMate
+* Transmit
+* TweetDeck
+* Photoshop CS3
+* rsync
+* <a href="http://subsonic.org">Subsonic</a>
+* DynDNS
+
+### Computing setup
+
+* Dell Latitude D620 running Ubuntu 12.04 for daily use
+* Heavily modified Windows 7 box for gaming
+* Ubuntu Linux server (headless) for media/file server
+* Samsung Galaxy Android smartphone

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "High School Students Use MySpace to Expose own stupidity"
+date: 2005-12-08 19:04
+comments: true
+categories: media teenagers
+---
+
+San Antonio News reported today</a> that 400 of the 3,000 students at San Antonio Warren High School either didn&#8217;t show up or walked out of class today due to threats on a <a href="http://www.myspace.com">MySpace</a> page that a couple of kids would show up at school today with machine guns. Pascual Gonzales of the Northside School District said: <blockquote>&#8220;It just seems to me that if you put up a public web site, and you allow students, teenagers, minors to post their thoughts and ideas, and not monitor it in an adult manner, you are asking for trouble,&#8221; &#8230; &#8220;This particular web site has been a pain for all Bexar County schools for a long time now, and it just seems that the owners of MySpace-dot-com should be held accountable.&#8221;</blockquote></p>
+
+I&#8217;m not a huge fan of MySpace.  As one of my friends once said (loosely paraphrased), &#8220;MySpace pages are like the Neon Light district of the Ghetto.  Flashing lights everywhere, everyone trying to get your attention.&#8221;  But even though I don&#8217;t care for MySpace, the obvious fact that is there&#8217;s no way on earth to monitor every post made there.  MySpace simply isn&#8217;t to blame for idiots and their subsequent idiotic behavior.  That&#8217;s like blaming the Department of Transportation when a person uses one of their roads to speed or otherwise break the law.  There are two parties that are responsible here.  1. The parents.  But really, are parents expected to monitor everything their kids do?  It&#8217;s impossible.  2. The students themselves.  Hey, here&#8217;s a newsflash: kids have been doing stupid stuff forever.  Ever see the movie, <a href="http://www.imdb.com/title/tt0069704/">American Graffiti</a>, <a href="http://www.imdb.com/title/tt0077631/">Grease</a> or <a href="http://www.imdb.com/title/tt0055614/">West Side Story</a>?
+
+Kids have been doing stupid stuff since Bible times.  In fact, one of my all-time favorite Bible stories is from 2 Kings 2:23-24.  It&#8217;s about a group of kids who taunt the prophet Elisha about being bald.  He gets mad, calls down a curse from God and two bears promptly run out of the woods and maul 42 of them.  Yes, kids have always done stupid stuff, at least no one got mauled by a bear this time.  I&#8217;m <strong>not </strong>condoning these kids&#8217; behavior, they deserve to be tried on felony charges.  Give those punks what they deserve, throw the book at &#8216;em.  But don&#8217;t shoot the messenger, or the host as the case may be.

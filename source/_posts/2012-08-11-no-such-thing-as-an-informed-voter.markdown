@@ -1,0 +1,28 @@
+---
+layout: post
+title: "No such thing as an informed voter"
+date: 2012-08-11 16:37
+comments: true
+categories: 
+---
+
+Is there really such a thing as an "informed voter?" When it comes to politics it's virtually impossible to discern who's telling the truth and who's lying. At this stage of the game (presidential elections) these men have made a living by catering to their constituency and winning elections. No one gets high in the political system by telling the truth and voting consistently. All these politicians happily change their political stance at the slightest sign their support may be slipping.
+
+<!-- more -->
+
+None stick to their guns or their convictions (if they have any at all, I seriously doubt it).
+
+The men who actually deserve to be in office are quite literally "unelectable". They don't cater enough to political winds, they haven't padded the right pockets with money and they haven't the money to back their multi-million dollar campaigns. Money may not win elections, but without the right backers you're sunk.
+
+The Democrats see half the country has views of one type, so they cater to them and as a result get their votes by telling them what they want to hear.
+
+The Republicans see the other half of the country has opposing views so they likewise cater to them, telling them whatever they want to hear.
+
+Instead of attempting to bring the country together, each political party has adopted a warfare mindset of divide and conquer.
+
+Both sides echo the refrain, "You're not for our party? Then you're unintelligent, selfish and should just leave the U.S. because our country was founded on freedom!" Hogwash, all of it.
+
+Is it any wonder that people in my generation have become increasingly disillusioned about our current political system? I largely blame this disillusionment on the proliferation of the Internet. In generations past your sources of information were extremely limited to
+local media outlets and your acquaintances. Now, seemingly all of a sudden, we all can access other points of view from people with whom we would NEVER otherwise interact. To borrow a scene from a favorite movie of mine, we can see the man behind the curtain. We can recognize that these folks who we're supposed to be in a "political war" with are really just like us. They struggle ever day to live a good life and to make right decisions.
+
+Maybe I'm just looking at the world through rose-colored glasses, but in the U.S. I believe that Democrats and Republicans have _far_ more in common with each other than not. And I do mean that in both a positive and negative way.

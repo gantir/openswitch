@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Odd problem with an Intel DZ68BC Motherboard"
+date: 2012-08-23 22:14
+comments: true
+categories: 
+---
+Ran into an interesting problem today regarding an Intel motherboard, BIOS and some CPU's.
+
+### First the hardware involved:
+
+* Intel DZ68BC motherboard
+* Intel i5 Ivy Bridge CPU
+
+### The symptoms:
+
+* Three long beeps when motherboard is powered on
+* POST error code 15
+* No BIOS screen available, no video output at all
+
+<!-- more -->
+
+### The cause:
+
+* The DZ68BC motherboard with a BIOS version of 0021 is not compatible with the Ivy Bridge architecture.
+* Some DZ68BC's do come with newer BIOS versions which should (in theory) be able to handle the Ivy Bridge line, but the one I had came with version 0021.
+
+### The solution:
+
+* Luckily I had a Sandy Bridge CPU in the shop.  It was an i3 but that didn't matter.  I put that processor in the board, and flashed the BIOS via USB to version 0028.  Everything went fine.
+* Then I flashed the BIOS via USB to version 0035.  Everything still fine.
+* Flashed the BIOS via USB to version 0037 which resulted in a non-functional system. At this point I was back where I started; no video output, no signs of a functioning BIOS at all.
+* I tried rolling back the BIOS to an earlier version, this (obviously) did not work.
+* Fortunately my co-worker had an idea that escaped me.  He moved the single stick of RAM from DIMM slot 1 to another slot.  In this case he moved it to slot 3 and all of a sudden the computer was functional again.  Also, the BIOS was indeed version 0037.  The OS was then able to be installed as normal, with the Ivy Bridge i5 in place.
+
+### The Conclusion:
+Why switching the slot the RAM was in made any difference whatsoever is unknown to me at this point.  What is obvious though, is that reverting back to a 2nd generation i-series processor was essential in getting this motherboard up to the correct BIOS version to allow the use of a 3rd generation Ivy Bridge processor.
+

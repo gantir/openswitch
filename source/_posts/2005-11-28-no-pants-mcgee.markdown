@@ -1,0 +1,11 @@
+---
+layout: post
+title: "No-pants McGee"
+date: 2005-11-28 19:04
+comments: true
+categories: parenting children
+---
+
+I got a call from my wife today while I was at the office.  She and I were discussing this and that when all of a sudden she said fairly loudly, &#8220;NO, <span class="caps"><span class="caps"><span class="caps">DON</span></span></span>&#8217;T <span class="caps"><span class="caps"><span class="caps"><span class="caps">TAKE</span></span></span></span> <span class="caps"><span class="caps"><span class="caps"><span class="caps">OFF</span></span></span></span> <span class="caps"><span class="caps"><span class="caps"><span class="caps">YOUR</span></span></span></span> <span class="caps"><span class="caps"><span class="caps">PANTS</span></span></span>!&#8221;  She didn&#8217;t yell but instead used her stern motherly voice to which Thomas is getting accustomed.  I burst out in laughter.  I knew she was talking to Thomas but I didn&#8217;t know he had learned to disrobe himself.  The mental image of my son pulling down his sweat pants in the middle of the living room struck me as especially funny at the moment.  So now I live in a lovely world where my son knows how to take off his pants.  I don&#8217;t really mind him going pant-less around the house though.  I&#8217;m just mortified by the idea that one day we will be perusing the aisles of Wal Mart when I turn around to see my son straining for a can of baked beans wearing only his diaper as a crowd of strangers point and stare.  Don&#8217;t forget the almost inaudible whispering of phrases like, &#8220;What kind of a dad <em>is</em> he?&#8221;
+
+OK, maybe that&#8217;s a little embellished.  But seriously, now that he can take off his pants there&#8217;s literally nothing stopping him from undoing his diaper too.  I hope my son&#8217;s not one of those babies who likes to go <em>au-naturale</em>.  Of course, on the flip-side, photos of those moments would make great blackmail material for when he&#8217;s a teenager. 
